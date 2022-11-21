@@ -1,0 +1,12 @@
+Bill ID: 9e28f351f4d9f27dfd8f78fe0fceb9f4
+
+Date: 2022-11-21
+
+Time: 20:28:42
+
+
+id   name                                                             price            quantity
+
+5    Momos                                                               40                   2
+
+Total: 80

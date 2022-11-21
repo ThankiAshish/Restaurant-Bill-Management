@@ -1,0 +1,14 @@
+Bill ID: 13bd526c49c03dc1757bb1eb0b68ec7b
+
+Date: 2022-11-21
+
+Time: 20:30:33
+
+
+id   name                                                             price            quantity
+
+9    Brownie                                                             70                   3
+1    Burger                                                              60                   2
+7    Coffee                                                              50                   1
+
+Total: 380

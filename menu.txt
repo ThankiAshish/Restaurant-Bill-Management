@@ -1,0 +1,9 @@
+1   Burger      60    
+2   Pizza       120
+3   Pasta       250
+4   Sandwich    80
+5   Momos       40
+6   Coke        30
+7   Coffee      50
+8   Tea         30
+9   Brownie     70
